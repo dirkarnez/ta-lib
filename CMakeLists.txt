@@ -1,3 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+
+project("ta-lib")
 
 #SET(TA_LIB_FLAGS "")
 #SET(TA_LIB_INCLUDE_DIRS "")
